@@ -1,11 +1,10 @@
 <h1>Salve! Sou o Edson Pessoa, desenvolvedor de frontend</h1><br>
 
-<div display:inline_block>
+<div>
   <a href="https://github.com/ejuniorpessoa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ejuniorpessoa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejuniorpessoa&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  
   
 <div style="display: inline_block"><br>
    <h2> Técnologias Estudadas Atualmente </h2>
@@ -15,8 +14,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg
   <img align="center" alt="EJunior-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="EJunior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
 </div>
-  
-
   
 <div>
    <h2> Contato </h2>
