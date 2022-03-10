@@ -1,6 +1,6 @@
 <h1>Salve! Sou o Edson Pessoa, desenvolvedor de frontend</h1><br>
 
-<div align="center" >
+<div>
   <a href="https://github.com/ejuniorpessoa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ejuniorpessoa&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ejuniorpessoa&layout=compact&langs_count=7&theme=midnight-purple"/>
